@@ -12,3 +12,4 @@ minimize
 ARIMA
 datetime
 timedelta
+matplotlib
