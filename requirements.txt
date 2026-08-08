@@ -5,7 +5,6 @@ numpy
 plotly
 scipy
 statsmodels
-plotly.graph_objects
 plotly.express
 make_subplots
 minimize
