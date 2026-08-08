@@ -81,4 +81,4 @@ def neg_sharpe_ratio(weights, mean_returns, cov_matrix, risk_free_rate=0.045):
     return -(p_ret - risk_free_rate) / p_std
 
 ## 🔗 Live Demo
-🌐 [View Live Interactive Dashboard]([ඔබේ_Streamlit_Link_එක_මෙතැනට_Paste_කරන්න](https://apple-financial-dashboard-c6cwjx9b2aucxaxyae7gvo.streamlit.app/))
+🌐 [View Live Interactive Dashboard](https://apple-financial-dashboard-c6cwjx9b2aucxaxyae7gvo.streamlit.app/)
