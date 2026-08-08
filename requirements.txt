@@ -5,9 +5,4 @@ numpy
 plotly
 scipy
 statsmodels
-make_subplots
-minimize
-ARIMA
-datetime
-timedelta
-matplotlib
+
